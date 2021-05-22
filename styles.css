@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+  padding: 3px;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  background: radial-gradient(#949494, #030303);
+}
+
+/* Btn for New Game on Sidebar */
+.button {
+  display: inline-block;
+  padding: 1px;
+  border: 0.1em solid black;
+  margin: 0 1.3em 0.3em 16px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+  transition: all 0.2s;
+  background-color: grey;
+}
+
+.button:hover {
+  color: #000000;
+  background-color: #ffff;
+}
+
+@media all and (max-widt: 30em) {
+  .button {
+    display: block;
+    margin: 0.4em auto;
+  }
+}
+/* Score & Clicks */
+#score {
+  color: white;
+  font-size: 18px;
+}
+
+#totalclicks {
+  color: white;
+  font-size: 18px;
+}
+/*Sidebar */
+.sidebar {
+  width: 130px;
+  height: 100vh;
+  background-color: black;
+}
+
+.title {
+  color: white;
+  font-size: 30px;
+  letter-spacing: .1em;
+  writing-mode: vertical-rl;
+  transform: rotate(540deg);
+  margin-top: 130px;
+  margin-left: 14%;
+  }
+/* Popup Video section*/
+.modal {
+	padding: 0;
+	position: fixed;
+  top: 0;
+  left: 0;
+	right: 0;
+	bottom: 0;
+	max-width: 100%;
+  height: 100%;
+  z-index: 1;
+  overflow: auto;
+  border: none;
+  transform: translate(15px,43px);
+}
+#video {
+  width: 70%;
+  height: 450px;
+  transform: translate(275px, 95px);
+  background: none;
+}
+.button-close-modal {
+	visibility: hidden;
+	margin-left: auto;
+}
+/* Gameboard & Gameboard Cards  */
+.gameboard {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  perspective: 1000px;
+  margin-left: 15%;
+}
+
+.card {
+  background-color: black;
+  width: calc(20% - 1px);
+  height: calc(22% - 1px);
+  border-radius: 5px;
+  transform: scale(1);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  transition: .5s;
+  margin: 5px;
+  display: inline-block;
+}
+
+.card-back {
+  width: calc(85% - 51px);
+  height: calc(90% - 6px);
+  border-radius: 5px;
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  display: inline-block;
+  backface-visibility:visible;
+  transform: rotateY(180deg);
+  margin-top: 11px;
+  margin-left: -25px;
+}
+
+.card-front {
+  width: calc(21% - 10px);
+  height: calc(21% - 10px);
+  border-radius: 5px;
+  transform: scale(1);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  margin: 5px;
+  display: inline-block;
+  backface-visibility: hidden;
+  }
+
+.card:active {
+  transform: scale(.97);
+}
+
+.card.flip {
+  transform: rotateY(180deg);
+  pointer-events: none;
+}
+.card.done: hover {
+  cursor: default;
+  box-shadow: none;
+}
+
+.card:hover {
+  border: 2px solid black;
+  box-shadow: inset 0px 0px 0px 2px #ffff;
+  box-sizing: border-box;
+}

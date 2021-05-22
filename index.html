@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="styles.css">
+   <title>Capstone</title>
+</head>
+<body>
+<!--Popup Video-->
+<div class="modal">
+<!--Btn to modal (hidden able to click on screen to close modal)-->
+<button class="button-close-modal" >X</button>
+  <div id="openModal" class="modalDialog">
+    <iframe src ="images\20210514_145135.mp4" id="video"></iframe>
+  </div>
+</div>
+<!--Sidebar with Score, Number of Clicks, and New Game Btn -->
+<div class="sidebar">
+    <button id="new-game" class="button">NEW GAME</button>
+    <div id="scoreboard">
+      <div id="score"><span>Score: 0</span></div>
+      <div id="totalclicks"><span>Clicks: 0</span></div>
+  </div>
+    <h1 class="title">Memory Game</h1>
+</div>
+<!--Gameboard with Cards -->
+<div class="gameboard">
+  <div class="card" data-icon="black">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="black" class="card-back" src="images/jigsaw1.png">
+  </div>
+  <div class="card" data-icon="red">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="red" class="card-back" src="images/jigsaw2.png">
+  </div>
+  <div class="card" data-icon="purple">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="purple" class="card-back" src="images/jigsaw3.png">
+  </div>
+  <div class="card" data-icon="orange">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="orange" class="card-back" src="images/jigsaw4.png">
+  </div>
+  <div class="card" data-icon="blue">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="blue" class="card-back" src="images/jigsaw5.png">
+</div>
+  <div class="card" data-icon="yellow">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="yellow" class="card-back" src="images/jigsaw6.png">
+</div>
+  <div class="card" data-icon="brown">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="brown" class="card-back" src="images/jigsaw7.png">
+</div>
+  <div class="card" data-icon="green">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="green" class="card-back" src="images/jigsaw8.png">
+</div>
+  <div class="card" data-icon="black">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="black" class="card-back" src="images/jigsaw1.png">
+</div>
+  <div class="card" data-icon="red">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="red" class="card-back" src="images/jigsaw2.png">
+</div>
+  <div class="card" data-icon="purple">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="purple"class="card-back" src="images/jigsaw3.png">
+</div>
+  <div class="card" data-icon="orange">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="orange" class="card-back" src="images/jigsaw4.png">
+</div>
+  <div class="card" data-icon="blue">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="blue" class="card-back" src="images/jigsaw5.png">
+</div>
+  <div class="card" data-icon="yellow">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="yellow" class="card-back" src="images/jigsaw6.png">
+</div>
+  <div class="card" data-icon="brown">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="brown" class="card-back" src="images/jigsaw7.png">
+</div>
+  <div class="card" data-icon="green">
+      <i class="card-front" img src="images/js.png"></i>
+      <img data-color="green" class="card-back" src="images/jigsaw8.png">
+  </div>
+</div>
+<!--Javascript src -->
+<script src="scripts.js"></script>
+
+</body>
+</html>

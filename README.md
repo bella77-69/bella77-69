@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bella77-69
-- 🌱 I’m currently learning web development....
 
 
 <!---

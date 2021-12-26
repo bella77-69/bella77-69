@@ -3,7 +3,8 @@
 
 
 
-### I'm Chantelle
+### I'm Chantelle 
+Welcome to my GitHub 👋
 
 A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
 
@@ -15,22 +16,28 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 - ⚛️ I enjoy working with React.js
 
 
-### Stuff I'm really good at
-
-<p>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
-</p>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bella77-69&layout=compact)][github]
+
 
 [github]: https://github.com/Bella77-69
 
-# Welcome to my GitHub 👋
-🔭 I’m currently working on ..... projects to practice my skills. 
 
+
+- 🔭 I’m currently working with **React** 
+- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+
+- 🌱 I’m currently learning **Anything!**
+📫 How to reach me: **ducksinky@gmail.com**
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantellemckenzie/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrspasceri/)
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ducksinky@gmail.com)
+  
+</div>
 
 ## Languages and Tools
 

@@ -4,21 +4,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle)](https://git.io/typing-svg)
 
 
-A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
-
-
-
 
 [github]: https://github.com/Bella77-69
 
 ## 📖 About me
+A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
 
 * 💻 I'm a full stack web developer
-- 🌱 I’m currently learning **Anything!**
--  📱 Building apps for my Portfolio
-- ⚛️ I enjoy working with React.js
-📫 How to reach me: **ducksinky@gmail.com**
-<h3 align="center">Connect with me:</h3>
+* 🌱 I’m currently learning **Anything!** with React.js
+* 📱 Building apps for my Portfolio
+* 📫 How to reach me: **ducksinky@gmail.com**
+
+<div align="left">
+<h3 >Connect with me:</h3>
+  </div>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantellemckenzie/)
@@ -52,11 +51,9 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
-## Most Used Languages
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Node.js,JavaScript)](https://github.com/Bella77-69)
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bella77-69.visitor-badge)
-  
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+</div>

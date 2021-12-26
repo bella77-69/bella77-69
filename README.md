@@ -1,33 +1,22 @@
-<img align="left" width="170" height="250" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
+<img align="left" width="40%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle)](https://git.io/typing-svg)
 
-
-### I'm Chantelle 
-Welcome to my GitHub 👋
 
 A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
-
-
-
-### I'm Currently
-
-- 📱 Building apps for my Portfolio
-- ⚛️ I enjoy working with React.js
-
-
 
 
 
 
 [github]: https://github.com/Bella77-69
 
+## 📖 About me
 
-
-- 🔭 I’m currently working with **React** 
-- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-
+* 💻 I'm a full stack web developer
 - 🌱 I’m currently learning **Anything!**
+-  📱 Building apps for my Portfolio
+- ⚛️ I enjoy working with React.js
 📫 How to reach me: **ducksinky@gmail.com**
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -67,6 +56,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Node.js,JavaScript)](https://github.com/Bella77-69)
 
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Bella77-69.visitor-badge)
+  
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 

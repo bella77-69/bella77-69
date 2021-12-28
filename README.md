@@ -58,6 +58,11 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
+## Deploy Status Badges
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/767561cd-4166-47a6-b4c9-159c9621b24f/deploy-status)](https://app.netlify.com/sites/bella77-69-learning-gatsby/deploys)
+
+
 
 <div align="center">
 

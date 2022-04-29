@@ -74,7 +74,11 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/767561cd-4166-47a6-b4c9-159c9621b24f/deploy-status)](https://app.netlify.com/sites/bella77-69-learning-gatsby/deploys)
 
-[https://cpasceri.netlify.app/] “My Portfolio Website”
+Learning Gatsby deploys: </br>
+https://bella77-69-learning-gatsby.netlify.app/
+
+My Portfolio Website: </br>
+https://cpasceri.netlify.app/
 
 
 <div align="center">

@@ -11,7 +11,7 @@
 A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
 
 * 💻 I'm a full stack web developer
-* 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* 🌱 I’m currently learning React-Native
 * 📱 Building apps for my Portfolio
 * 📫 How to reach me: **ducksinky@gmail.com**
 

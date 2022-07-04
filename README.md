@@ -25,8 +25,10 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
   
 </div>
 
-<p align=center>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bella77-69.visitor-badge)
+<p align=center> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/bella77-69/count.svg" />
+
   <a href="https://github.com/bella77-69?tab=repositories">
     <img src="https://badges.pufler.dev/repos/bella77-69?style=flat-square&color=black&logo=github">
   </a>

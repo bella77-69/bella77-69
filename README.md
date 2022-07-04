@@ -26,7 +26,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 </div>
 
 <p align=center>
-![](https://komarev.com/ghpvc/?username=bella77-69)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
   <a href="https://github.com/bella77-69?tab=repositories">
     <img src="https://badges.pufler.dev/repos/bella77-69?style=flat-square&color=black&logo=github">
   </a>

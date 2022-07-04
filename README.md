@@ -26,7 +26,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 </div>
 
 <p align=center>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
   <a href="https://github.com/bella77-69?tab=repositories">
     <img src="https://badges.pufler.dev/repos/bella77-69?style=flat-square&color=black&logo=github">
   </a>

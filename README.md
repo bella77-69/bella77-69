@@ -77,7 +77,7 @@ Learning Gatsby deploys: </br>
 https://bella77-69-learning-gatsby.netlify.app/
 
 My Portfolio Website: </br>
-https://cpasceri.netlify.app/
+https://chantelle-website-v2.netlify.app/
 
 
 <div align="center">

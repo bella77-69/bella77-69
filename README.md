@@ -11,9 +11,8 @@
 A Full Stack Web Developer from Vancouver. I love building applications & discussing new product ideas.✌️
 
 * 💻 I'm a full stack web developer
-* 🌱 I’m currently learning React-Native
 * 📱 Building apps for my Portfolio
-* 📫 How to reach me: **ducksinky@gmail.com**
+* 📫 How to reach me: **mrspasceri@hotmail.com**
 
 <div align="left">
 <h3 >Connect with me:</h3>

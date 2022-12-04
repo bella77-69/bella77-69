@@ -1,4 +1,4 @@
-<img align="left" width="40%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
+<img align="left" width="35%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle)](https://git.io/typing-svg)
@@ -27,11 +27,8 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
 <p align=center> 
     <img src="https://gpvc.arturio.dev/bella77-69" alt="profile views"> 
- 
-
 </p>
-[![GitHub Views](https://komarev.com/ghpvc/?bella77-69=natterstefan&color=FAC151)][1]
-![Visitor Count](https://profile-counter.glitch.me/bella77-69/count.svg)
+
 ## Languages and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white))

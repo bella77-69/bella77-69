@@ -20,7 +20,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantellepasceri/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ducksinky@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:mrspasceri@hotmail.com)
   
 </div>
 

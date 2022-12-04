@@ -27,10 +27,10 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
 <p align=center> 
     <img src="https://gpvc.arturio.dev/bella77-69" alt="profile views"> 
- ![Visitor Count](https://profile-counter.glitch.me/bella77-69/count.svg)
+ 
 
 </p>
-
+![Visitor Count](https://profile-counter.glitch.me/bella77-69/count.svg)
 ## Languages and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white))

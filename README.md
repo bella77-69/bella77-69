@@ -27,9 +27,6 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 <p align=center> 
     <img src="https://gpvc.arturio.dev/bella77-69" alt="profile views"> 
 
-  <a href="https://github.com/bella77-69?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/bella77-69?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 ## Languages and Tools

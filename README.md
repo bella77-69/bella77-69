@@ -30,6 +30,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
  
 
 </p>
+[![GitHub Views](https://komarev.com/ghpvc/?bella77-69=natterstefan&color=FAC151)][1]
 ![Visitor Count](https://profile-counter.glitch.me/bella77-69/count.svg)
 ## Languages and Tools
 

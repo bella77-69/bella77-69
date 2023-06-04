@@ -16,9 +16,13 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 <br>
 
 * 💻 Full Stack Web Developer
+* [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=💻 Full Stack Web Developer)](https://git.io/typing-svg)
 * 📱 Building apps for my Portfolio
+* [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📱 Building apps for my Portfolio)](https://git.io/typing-svg)
 * 🚀 Passionate and Driven
+* [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🚀 Passionate and Driven)](https://git.io/typing-svg)
 * 🌟 Creative Problem Solver
+* [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🌟 Creative Problem Solver)](https://git.io/typing-svg)
 
 ## 📫 Contact Me 
 

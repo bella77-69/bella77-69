@@ -12,12 +12,13 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 <br>
 <br>
 <br>
+<div align="left">
 * 💻 Full Stack Web Developer
 * 📱 Building apps for my Portfolio
 * 🚀 Passionate and Driven
-🌟 Creative Problem Solver
+* 🌟 Creative Problem Solver
 
-<div align="left">
+
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:
  
 <div align="center">

@@ -17,11 +17,11 @@
 <h3>Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:</h3>
   </div>
 <div align="center">
-  <h3>Linkedin: </h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chantellepasceri)](https://www.linkedin.com/in/chantellepasceri)
-  <h3>Email: </h3>
+
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mrspasceri@hotmail.com)](mailto:mrspasceri@hotmail.com)
-  <h3>GitHub: </h3>
+
   
   <p>Let's create something amazing together!</p>
 </div>
@@ -31,7 +31,7 @@
 <img src="https://badges.pufler.dev/visits/brunotacca/bella77-69?color=black&logo=github" />
 </p>
 
-## Tech Stack :computer:
+## :computer: Tech Stack 
 <h2>Programming Languages:</h2>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)

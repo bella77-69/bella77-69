@@ -8,10 +8,16 @@
 [github]: https://github.com/Bella77-69
 
 ## :wave: About me
- I am a passionate full-stack web developer with experience in building modern and interactive web applications. I enjoy working with React and Node to create robust and scalable solutions.✌️
+ I am a passionate full-stack web developer with experience in building modern and interactive web applications. I enjoy working with React and Node to create robust and scalable solutions.
 
-* 💻 I'm a full stack web developer
+* 💻 Full Stack Web Developer
+       * I have a strong background in both front-end and back-end development, allowing me to create end-to-end solutions. From crafting intuitive user interfaces with React to developing efficient server-side logic with Node, I bring a comprehensive skill set to every project.
 * 📱 Building apps for my Portfolio
+       * I am constantly working on exciting projects to enhance my skills and expand my portfolio. I believe in continuously learning and growing as a developer, and building new applications allows me to do just that. These projects not only showcase my abilities but also serve as valuable learning experiences.
+* 🚀 Passionate and Driven
+I am passionate about web development and thrive in dynamic environments where I can collaborate with a team to tackle challenging problems. I am always up for learning new technologies, exploring industry trends, and applying the best practices to create innovative solutions.
+🌟 Creative Problem Solver
+As a full-stack developer, I enjoy the process of analyzing problems and finding creative solutions. I take pride in my ability to think critically and approach challenges from different angles. I am constantly refining my problem-solving skills and staying up-to-date with the latest tools and techniques.
 
 <div align="left">
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:

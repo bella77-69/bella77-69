@@ -33,7 +33,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 ## :computer: Tech Stack 
 
- <h2>Programming Languages:</h2>
+Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
 
 Front-End Web Development:
@@ -64,8 +64,7 @@ Version Control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
-## Deploy Status Badges
-
+## :rocket: Deploy Status Badges
 
 Learning Gatsby deploys: </br>
   [![Netlify Status](https://api.netlify.com/api/v1/badges/767561cd-4166-47a6-b4c9-159c9621b24f/deploy-status)](https://app.netlify.com/sites/bella77-69-learning-gatsby/deploys) </br>

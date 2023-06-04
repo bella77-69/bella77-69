@@ -12,7 +12,6 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
 * 💻 I'm a full stack web developer
 * 📱 Building apps for my Portfolio
-* &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for coding.\
 
 <div align="left">
 <h3 >Connect with me:</h3>

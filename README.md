@@ -26,8 +26,8 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 </div>
 
 <p align=center> 
-    <img src="https://gpvc.arturio.dev/bella77-69" alt="profile views"> 
-  ![Visitor Count](https://profile-counter.glitch.me/{bella77-69}/count.svg)
+<img src="https://komarev.com/ghpvc/?username=bella77-69&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/brunotacca/bella77-69?color=black&logo=github" />
 </p>
 
 ## Languages and Tools

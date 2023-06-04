@@ -27,6 +27,7 @@ A Full Stack Web Developer from Vancouver. I love building applications & discus
 
 <p align=center> 
     <img src="https://gpvc.arturio.dev/bella77-69" alt="profile views"> 
+  ![](https://komarev.com/ghpvc/?username=bella77-69&color=ff69b4)
 </p>
 
 ## Languages and Tools

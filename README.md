@@ -31,7 +31,7 @@
 <img src="https://badges.pufler.dev/visits/brunotacca/bella77-69?color=black&logo=github" />
 </p>
 
-## Tech Stack
+## Tech Stack :computer:
 <h2>Programming Languages:</h2>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)

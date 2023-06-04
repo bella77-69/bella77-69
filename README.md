@@ -14,8 +14,8 @@
 * 📱 Building apps for my Portfolio
 
 <div align="left">
-<h3>Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:</h3>
-  </div>
+Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:
+ 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chantellepasceri)](https://www.linkedin.com/in/chantellepasceri)
@@ -25,7 +25,7 @@
   
   <p>Let's create something amazing together!</p>
 </div>
-
+ </div>
 <p align=center> 
 <img src="https://komarev.com/ghpvc/?username=bella77-69&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/bella77-69?color=black&logo=github" />

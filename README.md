@@ -33,9 +33,10 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 ## :computer: Tech Stack 
 
-Programming Languages:
+<div>
+ <h2>Programming Languages:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
-
+</div>
 Front-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=react,gatsby,styledcomponents)](https://skillicons.dev)
 
@@ -50,9 +51,6 @@ Hosting Platforms:
 
 Api Testing: 
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-Real-Time Communications:
-[![My Skills](https://skillicons.dev/icons?i=socket)](https://skillicons.dev)
 
 Code Editor:
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)

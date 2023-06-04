@@ -13,6 +13,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 <br>
 <br>
 <br>
+<br>
 * 💻 Full Stack Web Developer
 * 📱 Building apps for my Portfolio
 * 🚀 Passionate and Driven

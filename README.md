@@ -56,14 +56,10 @@ Api Testing:
 
 Real-Time Communications:
 [![My Skills](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 Code Editor:
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)
 
-
-Authentication: 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 Cloud Services:
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
@@ -71,14 +67,9 @@ Cloud Services:
 Design Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-Project Management:
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
 ## Deploy Status Badges

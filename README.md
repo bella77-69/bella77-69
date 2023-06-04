@@ -39,14 +39,11 @@ Programming Languages:
 Front-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=react,gatsby,styledcomponents)](https://skillicons.dev)
 
-
 Back-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-
 Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
-
 
 Hosting Platforms:
 [![My Skills](https://skillicons.dev/icons?i=netlify,heroku)](https://skillicons.dev)
@@ -55,18 +52,16 @@ Api Testing:
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 Real-Time Communications:
-[![My Skills](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=socket)](https://skillicons.dev)
 
 Code Editor:
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)
-
 
 Cloud Services:
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 Design Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
 
 Version Control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)

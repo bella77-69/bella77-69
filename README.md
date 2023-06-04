@@ -42,8 +42,11 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 ## :computer: Tech Stack 
 
 ## Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
-
+<p align='center'>
+ <a href='https://skillsicons.dev'>
+<img src='https://skillicons.dev/icons?i=html,css,scss,javascript'/>
+  </a>
+</p>
 ## Front-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=react,gatsby,styledcomponents)](https://skillicons.dev)
 

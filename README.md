@@ -18,6 +18,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 * 🚀 Passionate and Driven
 * 🌟 Creative Problem Solver
 
+## 📫 Contact Me 
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:
  

@@ -7,7 +7,7 @@
 
 [github]: https://github.com/Bella77-69
 
-## 📖 About me
+## :wave: About me
  I am a passionate full-stack web developer with experience in building modern and interactive web applications. I enjoy working with React and Node to create robust and scalable solutions.✌️
 
 * 💻 I'm a full stack web developer

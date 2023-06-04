@@ -33,7 +33,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 ## :computer: Tech Stack 
 
-<div>
+<div align="left">
  <h2>Programming Languages:</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
 </div>

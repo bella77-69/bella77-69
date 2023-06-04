@@ -32,7 +32,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 </p>
 
 ## :computer: Tech Stack 
-<div>
+
 Programming Languages:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -85,7 +85,7 @@ Version Control:
 https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
-</div>
+
 
 
 ## Deploy Status Badges

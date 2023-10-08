@@ -44,6 +44,9 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
 
+## Development Tools:
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
 ## Front-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=react,gatsby,jquery,styledcomponents)](https://skillicons.dev)
 

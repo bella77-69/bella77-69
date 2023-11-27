@@ -78,7 +78,8 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 ## :rocket: Deploy Status Badges
 
 Acknowledging Our Lands: </br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a4d4c259-9f38-4a11-94d3-5284fde9925c/deploy-status)](https://app.netlify.com/sites/acknowledging-our-lands/deploys) </br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4d4c259-9f38-4a11-94d3-5284fde9925c/deploy-status)](https://app.netlify.com/sites/acknowledging-our-lands/deploys)
+</br>
 https://land-acknowledgement.vercel.app/
 
 My Portfolio Website: </br>

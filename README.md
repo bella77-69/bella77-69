@@ -48,7 +48,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 ## Front-End Web Development:
-[![My Skills](https://skillicons.dev/icons?i=react,gatsby,jquery,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react, next, gatsby,jquery,styledcomponents)](https://skillicons.dev)
 
 ## Back-End Web Development:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)

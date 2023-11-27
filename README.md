@@ -78,7 +78,7 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 ## :rocket: Deploy Status Badges
 
 Acknowledging Our Lands: </br>
-  [![Netlify Status]([https://api.netlify.com/api/v1/badges/767561cd-4166-47a6-b4c9-159c9621b24f/deploy-status](https://land-acknowledgement.vercel.app/))]([https://app.netlify.com/sites/bella77-69-learning-gatsby/deploys](https://acknowledging-our-lands.netlify.app/) </br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4d4c259-9f38-4a11-94d3-5284fde9925c/deploy-status)](https://app.netlify.com/sites/acknowledging-our-lands/deploys) </br>
 
 My Portfolio Website: </br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2be9d51f-9149-411e-ab7d-8e515dd9103d/deploy-status)](https://app.netlify.com/sites/chantelle-website-v2/deploys) </br >

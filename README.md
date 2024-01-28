@@ -22,6 +22,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 
 ## 📫 Contact Me 
 
+Check out my portfolio app here: https://chantelleportfolio.netlify.app/ <br/>
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:
  
 <div align="center">

@@ -83,7 +83,7 @@ Acknowledging Our Lands: </br>
 https://land-acknowledgement.vercel.app/
 
 My Portfolio Website: </br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2be9d51f-9149-411e-ab7d-8e515dd9103d/deploy-status)](https://chantelleportfolio.netlify.app/) </br >
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f3b43bd-9cdf-4c46-b734-825f15464481/deploy-status)](https://app.netlify.com/sites/chantelleportfolio/deploys) </br >
 https://chantelle-website-v2.netlify.app/
 
 

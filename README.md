@@ -1,3 +1,4 @@
+<div>
 <img align="left" max-width="35%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
 
 
@@ -16,7 +17,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 * 📱 Building apps for my Portfolio
 * 🚀 Passionate and Driven
 * 🌟 Creative Problem Solver
-
+</div>
 ## 📫 Contact Me 
 
 Check out my portfolio app here: https://chantelleportfolio.netlify.app/ <br/>

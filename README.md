@@ -10,7 +10,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 <br>
 <br>
 <br>
-
+</div>
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <ul style="list-style-type: none; padding: 0;">
     <li>💻 Full Stack Web Developer</li>
@@ -19,7 +19,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
     <li>🌟 Creative Problem Solver</li>
   </ul>
 </div>
-</div>
+
 
 <div>
 📫 Contact Me 

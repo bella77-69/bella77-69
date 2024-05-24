@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
 </div>
 
-<div style="padding-left=2rem;">
+
 :wave: About me
 Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
 <br>
 <br>
 <br>
-</div>
+
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <ul style="list-style-type: none; padding: 0;">
     <li>💻 Full Stack Web Developer</li>

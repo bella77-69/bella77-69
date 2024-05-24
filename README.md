@@ -1,28 +1,25 @@
-<div>
+
 <img align="left" max-width="35%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
-</div>
 
 
-##:wave: About me
+[github]: https://github.com/Bella77-69
+
+## :wave: About me
 Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>💻 Full Stack Web Developer</li>
-    <li>📱 Building apps for my Portfolio</li>
-    <li>🚀 Passionate and Driven</li>
-    <li>🌟 Creative Problem Solver</li>
-  </ul>
-</div>
+* 💻 Full Stack Web Developer
+* 📱 Building apps for my Portfolio
+* 🚀 Passionate and Driven
+* 🌟 Creative Problem Solver
 
-
-<div>
-📫 Contact Me 
+## 📫 Contact Me 
 
 Check out my portfolio app here: https://chantelleportfolio.netlify.app/ <br/>
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:

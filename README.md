@@ -1,4 +1,4 @@
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: flex-start; text-align: flex-start;">
   <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" style="width: 35%; max-width: 350px; margin-bottom: 20px;">
 </div>
 

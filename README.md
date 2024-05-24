@@ -1,17 +1,14 @@
 <div style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; text-align: flex-start;">
-    <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" style="width: 35%; max-width: 350px; margin-bottom: 20px;">
-  </div>
-  <div style="margin-left: 20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle." alt="Typing SVG">
-    </a>
-    <p><a href="https://github.com/Bella77-69">github</a></p>
-    <h2>About me</h2>
-    <p>Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.</p>
-  </div>
+ <div style="display: flex; flex-direction: column; align-items: flex-start; text-align: flex-start;">
+  <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" style="width: 35%; max-width: 350px; margin-bottom: 20px;">
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
 
+[github]: https://github.com/Bella77-69
+
+## :wave: About me
+Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
+</div>
 <br>
 <br>
 <br>

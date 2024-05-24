@@ -3,8 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
 </div>
+
 <div>
-## :wave: About me
+:wave: About me
 Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
 <br>
 <br>
@@ -17,11 +18,14 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 * 🚀 Passionate and Driven
 * 🌟 Creative Problem Solver
 </div>
-## 📫 Contact Me 
+
+<div>
+📫 Contact Me 
 
 Check out my portfolio app here: https://chantelleportfolio.netlify.app/ <br/>
 Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:
- 
+</div>
+
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chantellepasceri)](https://www.linkedin.com/in/chantellepasceri)

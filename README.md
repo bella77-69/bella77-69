@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" style="max-width: 50%; height: auto;">
+  <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" style="width: 35%; max-width: 100%; height: auto;">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub:I'm+Chantelle.)](https://git.io/typing-svg).

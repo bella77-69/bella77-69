@@ -11,12 +11,13 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 <br>
 <br>
 </div>
-<div style=""display: flex; flex-direction: column; align-items: center; text-align: center; margin-left=10px;">
-* 💻 Full Stack Web Developer
-* 📱 Building apps for my Portfolio
-* 🚀 Passionate and Driven
-* 🌟 Creative Problem Solver
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-left: 10px;">
+  * 💻 Full Stack Web Developer
+  * 📱 Building apps for my Portfolio
+  * 🚀 Passionate and Driven
+  * 🌟 Creative Problem Solver
 </div>
+
 
 <div>
 📫 Contact Me 

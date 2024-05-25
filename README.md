@@ -34,49 +34,37 @@ Check out my [portfolio app](https://chantelleportfolio.netlify.app/). Feel free
 ## :computer: Tech Stack 
 
 ### Programming Languages:
-![HTML](https://skillicons.dev/icons/html)
-![CSS](https://skillicons.dev/icons/css)
-![JavaScript](https://skillicons.dev/icons/javascript)
-![TypeScript](https://skillicons.dev/icons/typescript)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,ts)](https://skillicons.dev)
 
 ### Development Tools:
-![Vite](https://skillicons.dev/icons/vite)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 ### Front-End Web Development:
-![React](https://skillicons.dev/icons/react)
-![Next.js](https://skillicons.dev/icons/nextjs)
-![Gatsby](https://skillicons.dev/icons/gatsby)
-![jQuery](https://skillicons.dev/icons/jquery)
-![Styled Components](https://skillicons.dev/icons/styledcomponents)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,jquery,styledcomponents)](https://skillicons.dev)
 
 ### Back-End Web Development:
-![Node.js](https://skillicons.dev/icons/nodejs)
-![Express](https://skillicons.dev/icons/express)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Databases:
-![MySQL](https://skillicons.dev/icons/mysql)
-![MongoDB](https://skillicons.dev/icons/mongodb)
-![Firebase](https://skillicons.dev/icons/firebase)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
 ### Hosting Platforms:
-![Netlify](https://skillicons.dev/icons/netlify)
-![Heroku](https://skillicons.dev/icons/heroku)
+[![My Skills](https://skillicons.dev/icons?i=netlify,heroku)](https://skillicons.dev)
 
 ### Api Testing: 
-![Postman](https://skillicons.dev/icons/postman)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ### Code Editor:
-![VS Code](https://skillicons.dev/icons/vscode)
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)
 
 ### Cloud Services:
-![AWS](https://skillicons.dev/icons/aws)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### Design Tools:
-![Figma](https://skillicons.dev/icons/figma)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Version Control:
-![Git](https://skillicons.dev/icons/git)
-![GitHub](https://skillicons.dev/icons/github)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 

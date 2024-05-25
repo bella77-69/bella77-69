@@ -1,7 +1,6 @@
 <div>
 <img align="left" max-width="35%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
-
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+and+welcome+to+my+GitHub!;I'm+Chantelle,+a+passionate+web+developer.;I+specialize+in+front-end+development.;Currently+working+on+building+my+portfolio.;Feel+free+to+explore+my+projects+and+get+in+touch!)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle,+a+passionate+web+developer.;Feel+free+to+explore+my+projects+and+get+in+touch!;)](https://git.io/typing-svg)
 
 👋 About Me
 

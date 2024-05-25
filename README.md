@@ -31,38 +31,21 @@ Check out my [portfolio app](https://chantelleportfolio.netlify.app/). Feel free
 
 ## :computer: Tech Stack 
 
-### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,ts)](https://skillicons.dev)
+### Programming Languages & Tools
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
-### Development Tools:
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+### Development Frameworks & Libraries
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-### Front-End Web Development:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,jquery,styledcomponents)](https://skillicons.dev)
+### Databases & Hosting Platforms
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev)
 
-### Back-End Web Development:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+### Tools & Services
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-### Databases:
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
+### Design & Version Control
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-### Hosting Platforms:
-[![My Skills](https://skillicons.dev/icons?i=netlify,heroku)](https://skillicons.dev)
-
-### Api Testing: 
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-### Code Editor:
-[![My Skills](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)
-
-### Cloud Services:
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-### Design Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-### Version Control:
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 

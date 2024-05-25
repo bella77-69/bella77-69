@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around;">
   <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" width="350">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
-</div>
+
 
 <br>
 
@@ -14,7 +14,7 @@ Building state-of-the-art, easy to use, user-friendly websites and applications 
 * 📱 Building apps for my Portfolio
 * 🚀 Passionate and Driven
 * 🌟 Creative Problem Solver
-
+</div>
 ## 📫 Contact Me 
 
 Check out my [portfolio app](https://chantelleportfolio.netlify.app/). Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:

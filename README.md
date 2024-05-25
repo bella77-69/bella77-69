@@ -1,10 +1,10 @@
-<div align="center">
-  <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" width="350">
+<div>
+<img align="left" max-width="35%" height="350" alt="Chantelle" src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg"/>
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
-  </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
 
+
+[github]: https://github.com/Bella77-69
   <br>
 
   ## :wave: About Me

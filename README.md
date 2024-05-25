@@ -1,20 +1,22 @@
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" width="350">
+<div align="center">
+  <div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/82847249/147374702-96d6f42e-6b10-4b39-b9fe-eae6d68d9a41.jpg" alt="Chantelle" width="350">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;I'm+Chantelle.)](https://git.io/typing-svg)
+  </div>
 
+  <br>
 
-<br>
+  ## :wave: About Me
 
-## :wave: About Me
+  Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
 
-Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. This industry appeals to me because it's some of the most rewarding and challenging work I've ever done! I love bringing concepts to life through code. I am seeking projects as a web developer to maximize the value I can bring to end-users in today’s digital world. I look forward to being continuously challenged and learning new things every day.
-
-* 💻 Full Stack Web Developer
-* 📱 Building apps for my Portfolio
-* 🚀 Passionate and Driven
-* 🌟 Creative Problem Solver
+  * 💻 Full Stack Web Developer
+  * 📱 Building apps for my Portfolio
+  * 🚀 Passionate and Driven
+  * 🌟 Creative Problem Solver
 </div>
+
 ## 📫 Contact Me 
 
 Check out my [portfolio app](https://chantelleportfolio.netlify.app/). Feel free to reach out to me if you have any questions or collaboration opportunities. You can connect with me through the following channels:

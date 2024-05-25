@@ -32,7 +32,7 @@ Check out my [portfolio app](https://chantelleportfolio.netlify.app/). Feel free
 ## :computer: Tech Stack 
 
 ### Programming Languages & Tools
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) [![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 
 ### Development Frameworks & Libraries
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
